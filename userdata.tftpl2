@@ -1,0 +1,4 @@
+#!/bin/bash
+sed -i 's/Listen 80/Listen ${port_number}/' /etc/httpd/conf/httpd.conf
+echo '<html><h1>Hello From Your Linux Web Server running on port ${port_number}</h1></html>' >> /var/www/html/index.php
+echo "<h2>db-endpoint: ${db_endpoint}</h2>" >> /var/www/html/index.php
