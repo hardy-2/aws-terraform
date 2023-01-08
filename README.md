@@ -3,7 +3,7 @@
 versions.tf : 버전/공급자 작성파일<br/>
 vpc.tf : VPC, IGW, Subnet 작성파일<br/>
 variables.tf : 변수 작성파일<br/>
-userdata.tftpl, userdata.tftpl2 : 유저데이터 파일<br/><br/>
+userdata.tftpl, userdata.tftpl2 : 유저데이터 파일<br/>
 output.tf : 출력 파일<br/>
 img.tf : 이미지 저장 작성파일<br/>
 ec2.tf : 인스턴스 작성파일<br/>
