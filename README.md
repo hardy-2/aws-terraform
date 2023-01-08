@@ -1,5 +1,5 @@
 # aws-terraform
-
+![](https://lavender-washer-552.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F26494bec-246c-4aec-b3f4-be340c844b2d%2FUntitled.png?table=block&id=a5b3418a-cb0e-4c02-bb2d-6830684756e4&spaceId=3a2995be-80ba-4914-b52f-53419771bb47&width=1920&userId=&cache=v2)
 versions.tf : 버전/공급자 작성파일<br/>
 vpc.tf : VPC, IGW, Subnet 작성파일<br/>
 variables.tf : 변수 작성파일<br/>
