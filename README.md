@@ -13,6 +13,7 @@ db.tf : 데이터베이스 작성파일<br/>
 as.tf : 오토스케일링 작성파일<br/>
 alb.tf :어플리케이션 로드밸런서 작성파일
 
+## 결과
 ![2](https://user-images.githubusercontent.com/73948888/236829353-9c5a8151-d29e-4000-9c94-1071553bec33.png)
 ![3](https://user-images.githubusercontent.com/73948888/236829351-fe9db862-2bd9-4537-9f8a-30638e7db82f.png)
 ![4](https://user-images.githubusercontent.com/73948888/236829349-b14514d0-774c-4af5-95fa-2b97f6411477.png)
