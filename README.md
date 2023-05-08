@@ -1,5 +1,5 @@
 # aws-terraform
-![1](https://user-images.githubusercontent.com/73948888/236829357-8e12edc5-c7cd-41aa-abcc-8a5c66fa4a7e.png)
+![1](https://user-images.githubusercontent.com/73948888/236830941-e14a18fd-a0fd-4b21-ad4a-90db59b9bf59.png)
 
 
 versions.tf : 버전/공급자 작성파일<br/>
@@ -14,7 +14,7 @@ as.tf : 오토스케일링 작성파일<br/>
 alb.tf :어플리케이션 로드밸런서 작성파일
 
 ## 결과
-![2](https://user-images.githubusercontent.com/73948888/236829353-9c5a8151-d29e-4000-9c94-1071553bec33.png)
-![3](https://user-images.githubusercontent.com/73948888/236829351-fe9db862-2bd9-4537-9f8a-30638e7db82f.png)
-![4](https://user-images.githubusercontent.com/73948888/236829349-b14514d0-774c-4af5-95fa-2b97f6411477.png)
-![5](https://user-images.githubusercontent.com/73948888/236829345-6aad68e8-80b1-440a-b431-907c6a20034f.png)
+![2](https://user-images.githubusercontent.com/73948888/236830939-3ad88dcd-1b10-4cd0-8362-9c425d947202.png)
+![3](https://user-images.githubusercontent.com/73948888/236830936-75ffd044-4782-4ea9-858b-8ec30617b3bc.png)
+![4](https://user-images.githubusercontent.com/73948888/236830932-a910001f-ee2e-47c6-bdf3-46df1324aa18.png)
+![5](https://user-images.githubusercontent.com/73948888/236830926-4f82510c-604d-4c28-91f8-175a14e63dfb.png)
